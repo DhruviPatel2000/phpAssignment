@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<students>
+<student>
+<firstname>Croline</firstname>
+<lastname>Forbs</lastname>
+<class>5</class>
+<rollNo>1</rollNo>
+</student>
+<student>
+<firstname>Stefan</firstname>
+<lastname>Salvtore</lastname>
+<class>4</class>
+<rollNo>2</rollNo>
+</student>
+<student>
+<firstname>Elena</firstname>
+<lastname>Gilbert</lastname>
+<class>4</class>
+<rollNo>3</rollNo>
+</student>
+</students>
